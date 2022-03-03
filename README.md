@@ -1,0 +1,1 @@
+# Pannellum-admin
