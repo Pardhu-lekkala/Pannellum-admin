@@ -1,0 +1,31 @@
+.area-image{
+    height: 90vh;
+    width: 100%;
+    background: no-repeat;
+    background-size: cover;
+}
+
+.sv-btn{
+    height: 30px;
+    width: 70px;
+    margin: 15px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-family: Proxima Nova;
+    color: #002E5A;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.sv-btn2{
+    height: 30px;
+    width: 70px;
+    margin: 15px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-family: Proxima Nova;
+    background-color: #002E5A;
+    color: #ffffff;
+    font-weight: 600;
+    cursor: pointer;
+}

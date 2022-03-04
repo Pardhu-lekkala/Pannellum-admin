@@ -1,0 +1,228 @@
+.cstm-main-cont{
+    display: flex;
+    flex-direction: column;
+}
+
+.cst-cont{
+    display: flex;
+    flex-direction: row;
+}
+
+.cstm-content-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.upload-cont{
+    /* margin:5% 15% 5% 15%; */
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    position: absolute;
+    width: 70%;
+    height: 75%;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 6px;
+    min-width: 700px;
+}
+
+.cstm-head{
+    position: static;
+    width: auto;
+    height: 44px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    color: #002E5A;
+}
+
+.upload-cont-1{
+    position: static;
+    width: 80%;
+    
+    
+
+}
+
+.img-para{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #3C4858;
+}
+
+
+.upload-btn{
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0.37141px;
+    text-transform: uppercase;
+    
+    border-width: 0px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.img-para2{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.87);
+
+}
+
+.pr-btn{
+    position: static;
+    width: 448px;
+    height: 44px;
+    left: 0px;
+    top: 322px;
+    border: 1px solid #8391A7;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-top: 20px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #002E5A;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.cs-btn{
+    position: static;
+    width: 448px;
+    height: 44px;
+    left: 0px;
+    top: 390px;
+    background: #8391A7;
+    border-radius: 4px;
+    border-width: 0px;
+    margin-top: 18px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.cs-btn2{
+    position: static;
+    width: 448px;
+    height: 44px;
+    left: 0px;
+    top: 390px;
+    background: #002E5A;
+    border-radius: 4px;
+    border-width: 0px;
+    margin-top: 18px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.btn-cont2{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-left: 15px;
+    position: relative;
+    background: #FFFFFF;
+    padding: 0px;
+    width: 100%;
+    height: 44px;
+  
+}
+
+.prev-btn{
+    width: 130px;
+    height: 44px;
+    border: 1px solid #C0CCDA;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 6px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #252C66;
+    cursor: pointer;
+}
+
+.uploaded{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    position: static;
+    background: rgba(255, 213, 124, 0.8);
+    border: 1px solid #FFD57C;
+    box-sizing: border-box;
+    border-radius: 4px;
+    height: 30px;
+    margin: 5px;
+}
+
+.uploaded-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px;
+    position: static;
+    background: #FFE5E5;
+    border: 1px solid #FFE5E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    height: 30px;
+    margin: 5px;
+}
+
+.upload-text{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1C2C40;
+    
+}
+
+.swap-img{
+    height: 18px;
+    width: 18px;
+}
+

@@ -1,0 +1,56 @@
+.pop-tx{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    color: #002E5A;
+    margin-left:5px ;
+    margin: 10px;
+}
+
+.btn-cn{
+    width: 82px;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #5A6679;
+    background-color: transparent;
+    border-width: 0px;
+    cursor: pointer;
+}
+
+.ad-btn{
+    width: 100px;
+    height: 38px;
+    left: 98px;
+    top: 0px;
+    background: #002E5A;
+    border-radius: 4px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    border-width: 0px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+
+
+.btn-pop-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 35px;
+}

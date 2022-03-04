@@ -1,0 +1,145 @@
+.main-cont1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  position: absolute;
+  width: 388px;
+  height: 400px;
+  left: 526px;
+  top: 210px;
+  background: #ffffff;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  /* background-color: g; */
+}
+.datagrid-img {
+  transition: 0.5s all ease-in-out;
+  cursor: pointer;
+}
+.datagrid-img:hover {
+  /* width:500px; */
+  /* display: relative; */
+  transform: scale(3);
+  border-radius: 200px rgba(230, 14, 14, 0.548) solid;
+  /* height: 500px;; */
+  display: block;
+  z-index: 2199;
+}
+.page {
+  background-color: rgb(247, 247, 247);
+  /* position: absolute; */
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.head1 {
+  position: static;
+  height: 28px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #1c2c40;
+  text-align: center;
+  width: 340px;
+  height: 24px;
+}
+
+.para1 {
+  position: static;
+  height: 25px;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #5a6679;
+  margin-bottom: 15px;
+}
+
+.btn1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: static;
+  width: 202px;
+  height: 44px;
+  background: #002e5a;
+  border-radius: 4px;
+  height: 40px;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+}
+.flex-container {
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  cursor: pointer;
+}
+
+.flex-items {
+  /* margin-left: inherit; */
+  width: 330px;
+  height: 400px;
+  background-color: white;
+  margin: 30px 15px;
+  border-radius: 10px;
+}
+.text {
+  margin-left: inherit;
+}
+
+h1 {
+  color: #1c2c40;
+  font-size: 20px;
+  margin: 20px 0px;
+}
+
+.vd-tx2 {
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #fe7300;
+}
+
+.header-styles-home {
+  background-color: #dfebee;
+  font-family: Proxima Nova;
+  font-style: bolder;
+  /* font-weight: 700; */
+  font-size: 18px;
+  color: #1c2c40;
+}
+
+.header-styles-head {
+  font-family: Proxima Nova;
+  font-style: normal;
+  /* font-weight: 600; */
+  font-size: 16px;
+}

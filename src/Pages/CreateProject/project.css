@@ -1,0 +1,94 @@
+.cont-container{
+    margin:10% 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.head-style{
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: flex-start;
+    padding: 0px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: #002E5A;
+}
+
+.para-style{
+    display: flex;
+    align-self: flex-start;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 30px 10% 0;
+    color: #3C4858;
+}
+
+.inp-style{
+    margin: 10px auto 0;
+    height: 15%;
+    width: 80%;
+    background: #FFFFFF;
+    border: 1px solid #C0CCDA;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.btn-style{
+    position: static;
+    width: 80%;
+    height: 15%;
+    background: #002E5A;
+    border-radius: 4px;
+    flex: none;
+    margin: 10px auto;
+    border-width: 0px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.btn-style:hover{
+    background-color: #003d75;
+}
+
+.btn-style2{
+    position: static;
+    width: 448px;
+    height: 44px;
+    left: 0px;
+    top: 96px;
+    background: #002E5A;
+    border-radius: 4px;
+    flex: none;
+    margin: 10px;
+    border-width: 0px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}

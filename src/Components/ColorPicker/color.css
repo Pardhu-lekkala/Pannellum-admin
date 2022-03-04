@@ -1,0 +1,32 @@
+.hex-text{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: px;
+    color: #002E5A;
+
+}
+
+.hex-clr{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 19px;
+    color: #002E5A;
+
+}
+
+.hex-cont{
+    width: 130px;
+    height: 40px;
+    border: 1px solid #8391A7;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

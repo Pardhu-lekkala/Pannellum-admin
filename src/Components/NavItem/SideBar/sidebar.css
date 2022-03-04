@@ -1,0 +1,134 @@
+.side-main-cont{
+    position: absolute;
+    width: 280px;
+    height: 966px;
+    left: 0px;
+    top: 58px;
+    background: #FFFFFF;
+    box-shadow: 1px 0px 0px #E5E9F2;
+}
+
+.box-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 280px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+}
+
+.conf-cont{
+    position: static;
+    width: 280px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.arr-img{
+    padding: 2px;
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.cont-pro-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.project-name{
+    position: static;
+    width: 100%;
+    height: 16px;
+    top: 4px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #002E5A;
+    padding-left: 10px;
+}
+
+.edit-img{
+    width: 20px;
+    height: 20px;
+    position: static;
+    margin-left: 7rem;
+}
+
+.login-pg-cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 16px;
+    position: static;
+    width: 250px;
+    height: 40px;
+    left: 0px;
+    top: 48px;
+    background:  #E7F6FF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.login-text{
+    position: static;
+    width: 70px;
+    height: 16px;
+    left: 10px;
+    top: 8px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #002E5A;
+    margin-left: 15px;
+
+}
+.create-pg-cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: static;
+    background: #F1F2F6;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    width:100%;
+
+}
+
+.create-text{
+    position: static;
+    width: 200px;
+    height: 16px;
+    left: 28px;
+    top: 2px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #002E5A;
+}
+
+.addimg{
+    margin-left: 10px;
+    margin-right: 5px;
+}
